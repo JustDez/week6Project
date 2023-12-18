@@ -1,0 +1,14 @@
+/* Shop Page CSS*/
+
+.shop-header {
+    background-image: url("https://publish.one37pm.net/wp-content/uploads/2021/03/yugioh-show-hero.jpg?fit=1600%2C707");
+    background-size: cover;
+    height: 700px;
+    color: white; 
+}
+
+
+.shop-stats {
+    color: white;
+}
+
